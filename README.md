@@ -1,3 +1,3 @@
 # -Predicting-Stock-Prices-using-sentiment-analysis
-Run app.py for deployment
+Run app.py for deployment<br>
 Refer to notebooks for model usage and comparison
