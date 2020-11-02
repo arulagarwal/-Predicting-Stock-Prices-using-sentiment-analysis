@@ -6,7 +6,7 @@ import numpy as np
 from datetime import date, timedelta
 
 url = 'https://newsapi.org/v2/everything?'
-api_key = '64d514cc270547c2a89bbd19227c9eeb'
+api_key = #Enter API key
 def get_articles(name):
   d = date.today() - timedelta(days=30)
   d = d.isoformat()
